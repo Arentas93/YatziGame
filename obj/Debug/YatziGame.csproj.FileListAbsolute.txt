@@ -1,0 +1,7 @@
+C:\Users\Arentas\source\repos\YatziGame\YatziGame\bin\Debug\YatziGame.exe.config
+C:\Users\Arentas\source\repos\YatziGame\YatziGame\bin\Debug\YatziGame.exe
+C:\Users\Arentas\source\repos\YatziGame\YatziGame\bin\Debug\YatziGame.pdb
+C:\Users\Arentas\source\repos\YatziGame\YatziGame\obj\Debug\YatziGame.csprojResolveAssemblyReference.cache
+C:\Users\Arentas\source\repos\YatziGame\YatziGame\obj\Debug\YatziGame.csproj.CoreCompileInputs.cache
+C:\Users\Arentas\source\repos\YatziGame\YatziGame\obj\Debug\YatziGame.exe
+C:\Users\Arentas\source\repos\YatziGame\YatziGame\obj\Debug\YatziGame.pdb
